@@ -46,31 +46,17 @@ Ok....
 
 
 <br/><br/>
-#### 😭 Things I would really like to learn even if it is at some point... ._.
+#### Things I would really like to learn sometime... 🧙‍♂️
 <div align="center">
-   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://badges.aleen42.com/src/golang.svg"/>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white"/>  
   <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-</div>
-<div align="center">  
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>    
 </div>
 
 ---
+
 ## About me 🤳
 - 👀 Since I was young I have been interested in many things, especially designing and creating projects of any kind, also art, music and video games.
 - 🧠 I am constantly reading, practicing and learning thanks to the beautiful Internet. 💙🌐💙
@@ -78,15 +64,9 @@ Ok....
 > There are quite a few ... **yap**
 > It's not going to be easy, but at least I want it to be fun, or something...
 
-
-## 🌐 Socials:
-📫you can send me an email to: dei8bit@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dei-dev)
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DEI-DAD) 
  
-<br/><br/>
     
-> **😱MY OWN PERSONAL PAGE IN PROCESS!🤯**
+> **MY OWN PERSONAL PAGE IN PROCESS!**
 > https://dei8bit-portfolio.netlify.app/projects/
 
 <br/><br/><br/><br/><br/><br/><br/>
