@@ -3,9 +3,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-*I'm dei...*
-
-Thanks for watch my profile, that's all  sorry😋
+*I'm dei 8 bit...*
  
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -16,60 +14,139 @@ Thanks for watch my profile, that's all  sorry😋
 3. histories? 🙊
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-Ok....
+Ok... let's try to make something
 <br/><br/><br/><br/><br/>
 
 
 ## 💪 My tools 🔧 and skills 🗡
 
 <div align="center">
-  <h4>💙🤍 My IDE... and perhaps your IDE too  🤭🤍💙</h4>
+  <h4>💙🤍 My dear IDE... and perhaps your IDE too  🤭🤍💙</h4>
   <img src="https://badges.aleen42.com/src/visual_studio_code.svg"/>
 </div>
 
 <br/><br/>
 
   
- 
 </div>
 
 <br/><br/>
 
 <div align="center">  
   <h2>💻🔚Frontend:</h2>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
+<h3>Design System<h3/>
+
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+
+<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </div>
+
+---
+
+<br/><br/>
+
+<div align="center">  
+  <h2>Backend:💻🔙</h2>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
+
+
+
 <br/><br/>
 
 
 <br/><br/>
-#### Things I would really like to learn sometime... 🧙‍♂️
+## Desired technologies 🤤
 <div align="center">
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white"/>  
   <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>    
+</div>
+
+
+---
+<img src=""/>
+
+
+
+## lore 🧙‍♂️
+- 🚶‍♂️ I am very attracted to code abstractions that allow to do great things in a simple way.
+- 🎨💡 Super creative and ingenious, coupled with technical knowledge is a brutally valuable and desirable combination for your team... 😎
+- 👨‍💻 I take great care that the syntax with which I write is intentionally didactic and intuitive rather than functional (it's a little obsession 😋 ).
+- 🐱‍💻I love to document, I sincerely believe that when I really understand a subject, it is difficult to find someone who can explain it as well as I can. ¯\_(ツ)_/¯.
+- 🧠 I am constantly reading, practicing and learning thanks to the beautiful Internet. 💙🌐💙
+- 👀 Vision:
+    -  *Crear una aplicacion a escala global* 
+    -  *Crear un lenguaje de programacion*
+- misitps://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </div>
 
 ---
 
-## About me 🤳
-- 👀 Since I was young I have been interested in many things, especially designing and creating projects of any kind, also art, music and video games.
-- 🧠 I am constantly reading, practicing and learning thanks to the beautiful Internet. 💙🌐💙
-- 👁 Vision: *My plan is to make all the sketches of both physical and virtual projects that I have been accumulating so far come true...* 
-> There are quite a few ... **yap**
-> It's not going to be easy, but at least I want it to be fun, or something...
+<br/><br/>
+
+<div align="center">  
+  <h2>Backend:💻🔙</h2>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
+
+
+
+<br/><br/>
+
+
+<br/><br/>
+## Desired technologies 🤤
+<div align="center">
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>    
+</div>
+
+
+---
+<img src=""/>
+
+
+
+## lore 🧙‍♂️
+- 🚶‍♂️ I am very attracted to code abstractions that allow to do great things in a simple way.
+- 🎨💡 Super creative and ingenious, coupled with technical knowledge is a brutally valuable and desirable combination for your team... 😎
+- 👨‍💻 I take great care that the syntax with which I write is intentionally didactic and intuitive rather than functional (it's a little obsession 😋 ).
+- 🐱‍💻I love to document, I sincerely believe that when I really understand a subject, it is difficult to find someone who can explain it as well as I can. ¯\_(ツ)_/¯.
+- 🧠 I am constantly reading, practicing and learning thanks to the beautiful people in Internet. 💙🌐💙
+- 👀 Vision:
+    -  *Crear una aplicacion a escala global* 
+    -  *Crear un lenguaje de programacion*
+- 👨‍🚀 Mision:
+    -  *Hacerme renombre gracias a mi creatividad e ingenio* 
+    -  *Innovar la propuesta tech como nunca antes*
+> Voy a mantenerme con la misma voluntad de siempre hasta que existan todas las ideas que tengo por hacer, asi las haga yo o cualquier persona, algo un poco dificil cuando a uno se le ocurren todo el tiempo ideas nuevas.
 
  
-    
-> **MY OWN PERSONAL PAGE IN PROCESS!**
-> https://dei8bit-portfolio.netlify.app/projects/
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
+---
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -79,6 +156,8 @@ Ok....
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dei8bit&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
+
+---
 
 ### ✍️ Random Dev Quote
 
