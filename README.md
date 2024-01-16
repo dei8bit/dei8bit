@@ -134,6 +134,7 @@ Ok... let's try to make something
 - 🎨💡 Super creative and ingenious, coupled with technical knowledge is a brutally valuable and desirable combination for your team... 😎
 - 👨‍💻 I take great care that the syntax with which I write is intentionally didactic and intuitive rather than functional (it's a little obsession 😋 ).
 - 🐱‍💻I love to document, I sincerely believe that when I really understand a subject, it is difficult to find someone who can explain it as well as I can. ¯\_(ツ)_/¯.
+- 🤩🎮 I believe that user experience is as important as good performance. I am a deeper lover of snippets, shorcuts and hyper-customization. 
 - 🧠 I am constantly reading, practicing and learning thanks to the beautiful people in Internet. 💙🌐💙
 - 👀 Vision:
     -  *Crear una aplicacion a escala global* 
