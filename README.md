@@ -40,11 +40,9 @@ Ok... let's try to make something
 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-<h3>Design System<h3/>
 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 
-<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </div>
 
 ---
@@ -65,7 +63,7 @@ Ok... let's try to make something
 
 
 <br/><br/>
-## Desired technologies 🤤
+## I want to learn... 🧐
 <div align="center">
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/>  
@@ -78,56 +76,6 @@ Ok... let's try to make something
 
 
 ---
-<img src=""/>
-
-
-
-## lore 🧙‍♂️
-- 🚶‍♂️ I am very attracted to code abstractions that allow to do great things in a simple way.
-- 🎨💡 Super creative and ingenious, coupled with technical knowledge is a brutally valuable and desirable combination for your team... 😎
-- 👨‍💻 I take great care that the syntax with which I write is intentionally didactic and intuitive rather than functional (it's a little obsession 😋 ).
-- 🐱‍💻I love to document, I sincerely believe that when I really understand a subject, it is difficult to find someone who can explain it as well as I can. ¯\_(ツ)_/¯.
-- 🧠 I am constantly reading, practicing and learning thanks to the beautiful Internet. 💙🌐💙
-- 👀 Vision:
-    -  *Crear una aplicacion a escala global* 
-    -  *Crear un lenguaje de programacion*
-- misitps://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-</div>
-
----
-
-<br/><br/>
-
-<div align="center">  
-  <h2>Backend:💻🔙</h2>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</div>
-
-
-
-<br/><br/>
-
-
-<br/><br/>
-## Desired technologies 🤤
-<div align="center">
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>    
-</div>
-
-
----
-<img src=""/>
-
-
 
 ## lore 🧙‍♂️
 - 🚶‍♂️ I am very attracted to code abstractions that allow to do great things in a simple way.
@@ -135,18 +83,14 @@ Ok... let's try to make something
 - 👨‍💻 I take great care that the syntax with which I write is intentionally didactic and intuitive rather than functional (it's a little obsession 😋 ).
 - 🐱‍💻I love to document, I sincerely believe that when I really understand a subject, it is difficult to find someone who can explain it as well as I can. ¯\_(ツ)_/¯.
 - 🤩🎮 I believe that user experience is as important as good performance. I am a deeper lover of snippets, shorcuts and hyper-customization. 
-- 🧠 I am constantly reading, practicing and learning thanks to the beautiful people in Internet. 💙🌐💙
+- 🧠 I am constantly reading, practicing and learning thanks to the beautiful Internet. 💙🌐💙
 - 👀 Vision:
-    -  *Crear una aplicacion a escala global* 
-    -  *Crear un lenguaje de programacion*
+    -  *make an app on a global scale* 
+    -  *build a programming language*
 - 👨‍🚀 Mision:
-    -  *Hacerme renombre gracias a mi creatividad e ingenio* 
-    -  *Innovar la propuesta tech como nunca antes*
-> Voy a mantenerme con la misma voluntad de siempre hasta que existan todas las ideas que tengo por hacer, asi las haga yo o cualquier persona, algo un poco dificil cuando a uno se le ocurren todo el tiempo ideas nuevas.
-
- 
-
-<br/><br/><br/><br/><br/>
+    -  *Make a name for myself thanks to my creativity and ingenuity* 
+    -  *Innovate the tech proposal like never before*
+---
 ---
 
 # 📊 GitHub Stats:
@@ -181,6 +125,8 @@ Ok... let's try to make something
           align="center"
       />
   </a>
+
+  
   <a href="https://ko-fi.com/dei8bit" target="_blank" style="display: inline-block;">
       <img
           src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
