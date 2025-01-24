@@ -55,6 +55,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dei8bit/dei8bit/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/dei8bit/dei8bit/blob/output/github-snake-dark.svg)
